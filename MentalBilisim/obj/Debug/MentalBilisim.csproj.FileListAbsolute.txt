@@ -1,0 +1,6 @@
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\bin\Debug\MentalBilisim.dll
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\bin\Debug\MentalBilisim.pdb
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\obj\Debug\MentalBilisim.csprojAssemblyReference.cache
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\obj\Debug\MentalBilisim.csproj.CoreCompileInputs.cache
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\obj\Debug\MentalBilisim.dll
+C:\Users\SELÇUK\source\repos\MentalBilisim\MentalBilisim\obj\Debug\MentalBilisim.pdb
